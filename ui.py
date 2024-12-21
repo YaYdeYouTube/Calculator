@@ -17,7 +17,7 @@ def on_click(event):
 
 root = Tk()
 root.geometry("400x400+250+50")
-root.title("Calculatrice")
+root.title("Calculator")
 
 numbers = [
     ("0", ".", "C", "+"),
